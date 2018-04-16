@@ -21,7 +21,7 @@ html,body {
   padding: 0px; 
 }
 .reveal .controls[data-controls-layout="edges"] {
-    bottom: 100px;
+    bottom: 120px;
 }
 span.title_span {
   color: #ff5733;
@@ -105,4 +105,46 @@ slide {
   color: grey;
   font-weight: 200;
   display: block;
+}
+
+#introduction h1 {
+  font-size: 95%;
+}
+
+#introduction p {
+  font-size: 40%;
+  text-align: center;
+}
+
+#geographic h1 {
+  font-size: 95%;
+  padding-top: 100px;
+}
+
+#geographic p {
+  font-size: 40%;
+  text-align: center;
+}
+
+#transition {
+  font-size: 20px;
+  text-align: center;
+}
+
+#hospitalization .col-sm-4 {
+  margin-top: 50px;
+}
+
+#hospitalization p {
+  font-size: 40%;
+  text-align: center;
+}
+
+#conditions .col-sm-4 {
+  margin-top: 80px;
+}
+
+#conditions p {
+  font-size: 40%;
+  text-align: center;
 }
