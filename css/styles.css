@@ -148,3 +148,21 @@ slide {
   font-size: 40%;
   text-align: center;
 }
+
+#strains .col-sm-4 {
+  margin-top: 80px;
+}
+
+#strains p {
+  font-size: 60%;
+  text-align: center;
+}
+
+#cases .col-sm-4 {
+  margin-top: 50px;
+}
+
+#cases p {
+  font-size: 40%;
+  text-align: center;
+}
