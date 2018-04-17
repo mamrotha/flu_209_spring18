@@ -131,13 +131,23 @@ slide {
   display: block;
 }
 
+#front h1 {
+  color: #ff5733;
+  font-size: 1.8em;
+  margin-bottom: 100px;
+}
+
+#front div {
+  text-align: left;
+}
+
 #introduction h1 {
   font-size: 95%;
 }
 
 #introduction p {
   font-size: 40%;
-  text-align: center;
+  text-align: left;
 }
 
 #geographic h1 {
@@ -147,7 +157,7 @@ slide {
 
 #geographic p {
   font-size: 40%;
-  text-align: center;
+  text-align: left;
 }
 
 #transition {
@@ -161,7 +171,7 @@ slide {
 
 #hospitalization p {
   font-size: 40%;
-  text-align: center;
+  text-align: left;
 }
 
 #conditions .col-sm-4 {
@@ -170,7 +180,7 @@ slide {
 
 #conditions p {
   font-size: 40%;
-  text-align: center;
+  text-align: left;
 }
 
 #strains .col-sm-4 {
@@ -179,7 +189,7 @@ slide {
 
 #strains p {
   font-size: 60%;
-  text-align: center;
+  text-align: left;
 }
 
 #cases .col-sm-4 {
@@ -188,5 +198,9 @@ slide {
 
 #cases p {
   font-size: 40%;
-  text-align: center;
+  text-align: left;
+}
+
+#back h1 {
+  font-size: 2.0em;
 }
